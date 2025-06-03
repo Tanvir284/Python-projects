@@ -17,7 +17,7 @@ Contributions are welcome! If you have a Python project to share, or want to imp
 2. Add your project or improvements
 3. Submit a Pull Request
 
-Please follow the existing folder structure and include a README in your project folder.
+
 
 ---
 
